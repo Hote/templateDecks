@@ -1,0 +1,32 @@
+= Learn Rails 5.1 Part II
+Stefan Wintermeyer
+v5.1.0, 2016-03-27
+:doctype: book
+:producer: Stefan Wintermeyer
+:keywords: Ruby on Rails, Ruby on Rails 5.1, Rails, Ruby, Framework, MVC
+:copyright: Stefan Wintermeyer
+:imagesdir: images
+:icons: font
+:icon-set: fa
+:toc:
+:toclevels: 4
+:source-highlighter: pygments
+
+include::preface.adoc[]
+
+:leveloffset: +1
+include::chapter-how-to.adoc[]
+
+include::chapter-test-driven-development.adoc[]
+
+include::chapter-active_job.adoc[]
+
+include::chapter-actionmailer.adoc[]
+
+include::chapter-i18n.adoc[]
+
+include::chapter-asset-pipeline.adoc[]
+
+include::chapter-caching.adoc[]
+
+include::chapter-action-cable.adoc[]
